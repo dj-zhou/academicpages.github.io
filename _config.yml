@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Dingjiang Zhou / Roboticist"
 title_separator          : "-"
-name                     : &name "Dingjiang Zhou"
+name                     : &name ""
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dj-zhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dj-zhou/dj-zhou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dingjiang Zhou"
   avatar           : "profile.png"
-  bio              : "A robot fan, and algorithm developer"
+  bio              : "A robot fan, and algorithm developer."
   location         : "Pittsburgh, PA"
   employer         : "Bito Robotics, Inc."
   pubmed           : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/dj-zhou"
+  github           : "dj-zhou"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dingjiang-zhou-a8483495/"
+  linkedin         : "dingjiang-zhou-a8483495/"
   orcid            :
   pinterest        :
   soundcloud       :

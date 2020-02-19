@@ -14,4 +14,4 @@ This is Dingjiang Zhou.
 
 For more info
 ------
-More infomation, you are very welcome to contact me through E-mail. You are also very welcome to give suggestions on my repositories.
+More infomation, you are very welcome to contact me through E-mail. You are also very welcome to give me suggestions on my repositories and code.
